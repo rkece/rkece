@@ -79,13 +79,13 @@
 
 **〔 Programming 〕**
 
-<img src="https://skillicons.dev/icons?i=js,java,cpp,python,c&theme=dark&perline=10" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark&perline=10" alt="Languages"/>
 
 <br/><br/>
 
-**〔 Web Development 〕**
+**〔 Software 〕**
 
-<img src="https://skillicons.dev/icons?i=Vanilla.js,react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" alt="Frameworks"/>
 
 <br/><br/>
 
@@ -101,9 +101,9 @@
 
 <br/><br/>
 
-**〔 Embedded-IOT 〕**
+**〔 Hardware 〕**
 </br></br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/> <img src="https://img.icons8.com/color/48/cisco-packet-tracer.png" alt="Cisco Packet Tracer" width="48" height="48"/>
 
 <img src="https://img.shields.io/badge/PLC%20%7C%20HMI-0072C6?style=for-the-badge&logo=siemens&logoColor=white"/>
 &nbsp;
