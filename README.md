@@ -34,7 +34,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=🧑%E2%80%8D💻+About+Me" alt="About Me"/>
+  <h2><b>🧑‍💻 About Me</b></h2>
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -62,11 +62,11 @@
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/rkece/rkece/main/rkphoto.png" width="180" style="border-radius:50%;border:3px solid #70A5FD" alt="Rakesh Kumar"/>
+<img src="https://raw.githubusercontent.com/rkece/rkece/main/rkphoto.png" width="200" style="border-radius:50%;border:3px solid #70A5FD" alt="Rakesh Kumar"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=13&pause=1000&color=70A5FD&center=true&vCenter=true&width=280&lines=ECE+Student+%40+R.M.K.+College;Full+Stack+%2B+IoT+Engineer;CGPA+8.33+%7C+Chennai%2C+India" alt="mini typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&pause=1000&color=70A5FD&center=true&vCenter=true&width=300&lines=ECE+Student+%40+R.M.K.+College;Full+Stack+%2B+IoT+Engineer;CGPA+8.33+%7C+Chennai%2C+India" alt="mini typing"/>
 
 </td>
 </tr>
@@ -79,7 +79,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  SKILL ICONS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=🛠️+Tech+Arsenal" alt="Tech Arsenal"/>
+  <h2><b>🛠️ Tech Arsenal</b></h2>
 </div>
 
 <div align="center">
@@ -141,7 +141,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" alt="GitHub Stats"/>
+  <h2><b>📊 GitHub Stats</b></h2>
 </div>
 
 <div align="center">
@@ -155,13 +155,11 @@
 <!-- ━━━━━━━━━━━━━━━━━━  STREAK STATS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=🔥+Streak+Stats" alt="Streak Stats"/>
+  <h2><b>🔥 Streak Stats</b></h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rkece&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" width="680"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=rkece&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak (fallback)" width="680"/>
+  <img src="https://streak-stats.demolab.com?user=rkece&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" width="680"/>
 </div>
 
 <br/>
@@ -169,7 +167,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  ACTIVITY GRAPH  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=450&lines=📈+Contribution+Graph" alt="Contribution Graph"/>
+  <h2><b>📈 Contribution Graph</b></h2>
 </div>
 
 <div align="center">
@@ -184,7 +182,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  CURRENTLY BUILDING  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=520&lines=🔨+What+I'm+Currently+Building" alt="Currently Building"/>
+  <h2><b>🔨 What I'm Currently Building</b></h2>
 </div>
 
 <div align="center">
@@ -204,7 +202,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  WORK EXPERIENCE  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=420&lines=💼+Work+Experience" alt="Work Experience"/>
+  <h2><b>💼 Work Experience</b></h2>
 </div>
 
 <details>
@@ -242,7 +240,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  FEATURED PROJECTS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=🚀+Featured+Projects" alt="Featured Projects"/>
+  <h2><b>🚀 Featured Projects</b></h2>
 </div>
 
 <div align="center">
@@ -267,7 +265,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  ACHIEVEMENTS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=520&lines=🏅+Achievements+%26+Certifications" alt="Achievements"/>
+  <h2><b>🏅 Achievements & Certifications</b></h2>
 </div>
 
 <div align="center">
@@ -289,7 +287,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  EDUCATION  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=300&lines=🎓+Education" alt="Education"/>
+  <h2><b>🎓 Education</b></h2>
 </div>
 
 <div align="center">
@@ -308,7 +306,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  CURRENTLY LEARNING  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=420&lines=📚+Currently+Learning" alt="Currently Learning"/>
+  <h2><b>📚 Currently Learning</b></h2>
 </div>
 
 <div align="center">
@@ -345,7 +343,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  OPEN TO  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=280&lines=🌍+Open+To" alt="Open To"/>
+  <h2><b>🌍 Open To</b></h2>
 </div>
 
 <div align="center">
@@ -367,7 +365,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  FUN FACTS  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=280&lines=⚡+Fun+Facts" alt="Fun Facts"/>
+  <h2><b>⚡ Fun Facts</b></h2>
 </div>
 
 <div align="center">
@@ -391,7 +389,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=380&lines=📬+Connect+With+Me" alt="Connect"/>
+  <h2><b>📬 Connect With Me</b></h2>
 </div>
 
 <div align="center">
