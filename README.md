@@ -37,9 +37,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=🧑%E2%80%8D💻+About+Me" alt="About Me"/>
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top" align="left">
 
 ### 👋 Hey, I'm Rakesh!
 
@@ -60,13 +60,13 @@
 💡 Fun fact: I debug hardware AND software before breakfast ☕
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/rkece/rkece/main/rkphoto.png" width="200" style="border-radius:50%;border:3px solid #70A5FD" alt="Rakesh Kumar"/>
+<img src="https://raw.githubusercontent.com/rkece/rkece/main/rkphoto.png" width="180" style="border-radius:50%;border:3px solid #70A5FD" alt="Rakesh Kumar"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&pause=1000&color=70A5FD&center=true&vCenter=true&width=300&lines=ECE+Student+%40+R.M.K.+College;Full+Stack+%2B+IoT+Engineer;CGPA+8.33+%7C+Chennai%2C+India" alt="mini typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=13&pause=1000&color=70A5FD&center=true&vCenter=true&width=280&lines=ECE+Student+%40+R.M.K.+College;Full+Stack+%2B+IoT+Engineer;CGPA+8.33+%7C+Chennai%2C+India" alt="mini typing"/>
 
 </td>
 </tr>
@@ -104,7 +104,7 @@
 
 **〔 Tools & DevOps 〕**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode&theme=dark&perline=10" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,npm,bash&theme=dark&perline=10" alt="Tools"/>
 
 <br/><br/>
 
@@ -144,21 +144,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=99999&pause=99999&color=70A5FD&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" alt="GitHub Stats"/>
 </div>
 
-<table align="center" border="0">
-<tr>
-<td align="center" valign="middle" width="25%">
-  <img src="https://raw.githubusercontent.com/rkece/rkece/main/rkphoto.png" width="160" style="border-radius:50%" alt="Rakesh Kumar"/>
-  <br/><br/>
-  <b>Rakesh Kumar M M</b><br/>
-  <sub>ECE · Full Stack · IoT</sub>
-</td>
-<td align="center" valign="middle" width="75%">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkece&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkece&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" height="175"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkece&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&card_width=420" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkece&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" height="180"/>
+</div>
 
 <br/>
 
@@ -169,7 +159,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rkece&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" width="680"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rkece&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" width="680"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=rkece&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak (fallback)" width="680"/>
 </div>
 
 <br/>
