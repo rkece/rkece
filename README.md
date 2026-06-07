@@ -101,7 +101,7 @@
 
 <br/><br/>
 
-**〔 AI Tools 〕**
+**〔 Tools 〕**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,npm,bash&theme=dark&perline=10" alt="Tools"/>
 
@@ -110,8 +110,6 @@
 **〔 Embedded-IOT 〕**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/>
-
-<br/>
 
 <img src="https://img.shields.io/badge/PLC%20%7C%20HMI-0072C6?style=for-the-badge&logo=siemens&logoColor=white"/>
 &nbsp;
