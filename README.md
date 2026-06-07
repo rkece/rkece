@@ -252,7 +252,7 @@
 | 🚀 | **KPIT Sparkle Innovation Challenge** | National-level innovation competition by KPIT |
 | 💡 | **EDI Tamil Nadu Competition** | State-level entrepreneurship & innovation challenge |
 | 🇩🇪 | **German A1 Certification** | Certified A1 German language proficiency |
-| 🔬 | **34+ GitHub Repositories** | Actively building & open-sourcing hardware + software projects |
+| 🔬 | **20+ GitHub Repositories** | Actively building & open-sourcing hardware + software projects |
 
 </div>
 
