@@ -103,7 +103,7 @@
 
 **〔 Hardware 〕**
 </br></br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,easyeda&theme=dark&perline=10" alt="Hardware"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark&perline=10" alt="Hardware"/>
 
 <img src="https://img.shields.io/badge/PLC%20%7C%20HMI-0072C6?style=for-the-badge&logo=siemens&logoColor=white"/>
 &nbsp;
