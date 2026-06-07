@@ -41,7 +41,7 @@
 <tr>
 <td width="60%" valign="top" align="left">
 
-### 👋 Hey, I'm Rakesh!
+###  Hey, I'm Rakesh Kumar!
 
 > *"Build things that matter. Bridge software & hardware."*
 
@@ -55,9 +55,8 @@
 
 ⚙️ I bridge **MERN apps** with **Raspberry Pi**, **PLC**, and **Arduino**
 
-🇩🇪 **German A1 Certified** · Hackathon finalist · 34+ GitHub repos
+**German A1 Certified** · Hackathon finalist · 34+ GitHub repos
 
-💡 Fun fact: I debug hardware AND software before breakfast ☕
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -137,20 +136,6 @@
 <br/>
 
 ---
-
-<!-- ━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-  <h2><b>📊 GitHub Stats</b></h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkece&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&card_width=420" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkece&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" height="180"/>
-</div>
-
-<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━  STREAK STATS  ━━━━━━━━━━━━━━━━━━ -->
 
@@ -402,7 +387,7 @@
   <img src="https://img.shields.io/badge/GitHub-rkece-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:mmrakeshkumar13@gmail.com?to=mmrakeshkumar13@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mmrakeshkumar13@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-mmrakeshkumar13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
