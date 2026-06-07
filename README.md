@@ -103,7 +103,7 @@
 
 **〔 Hardware 〕**
 </br></br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/> <img src="https://img.icons8.com/color/48/cisco-packet-tracer.png" alt="Cisco Packet Tracer" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,kicad&theme=dark&perline=10" alt="Hardware"/>
 
 <img src="https://img.shields.io/badge/PLC%20%7C%20HMI-0072C6?style=for-the-badge&logo=siemens&logoColor=white"/>
 &nbsp;
