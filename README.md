@@ -41,11 +41,11 @@
 <tr>
 <td width="60%" valign="top" align="left">
 
-###  Hey, I'm Rakesh Kumar!
+### 👋 Hey, I'm Rakesh Kumar!
 
 > *"Build things that matter. Bridge software & hardware."*
 
-🎓 **B.E. ECE Student** @ R.M.K. Engineering College *(2024–2028)* · CGPA **8.33**
+🎓 **B.E. ECE Student** @ R.M.K. Engineering College *(2024–2028)*
 
 📍 **Chennai, Tamil Nadu, India**
 
@@ -55,7 +55,7 @@
 
 ⚙️ I bridge **MERN apps** with **Raspberry Pi**, **PLC**, and **Arduino**
 
-**German A1 Certified** · Hackathon finalist · 34+ GitHub repos
+**German A1 Certified** · Hackathon finalist · 20+ GitHub repos
 
 
 </td>
