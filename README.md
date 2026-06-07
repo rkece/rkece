@@ -43,19 +43,13 @@
 
 ### 👋 Hey, I'm Rakesh Kumar!
 
-> *"Build things that matter. Bridge software & hardware."*
 
 🎓 **B.E. ECE Student** @ R.M.K. Engineering College *(2024–2028)*
-
 📍 **Chennai, Tamil Nadu, India**
-
-🔭 Currently building **Debugenix AI** & a **College EdTech Platform**
-
+🔭 Currently building **Debugenix AI**
 🌱 Learning **Advanced Full Stack Architecture** & **Cloud IoT**
-
 ⚙️ I bridge **MERN apps** with **Raspberry Pi**, **PLC**, and **Arduino**
-
-**German A1 Certified** · Hackathon finalist · 20+ GitHub repos
+✈️ German A1 Certified· Hackathon finalist· 20+ GitHub repos
 
 
 </td>
@@ -108,7 +102,7 @@
 <br/><br/>
 
 **〔 Embedded-IOT 〕**
-
+</br></br>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/>
 
 <img src="https://img.shields.io/badge/PLC%20%7C%20HMI-0072C6?style=for-the-badge&logo=siemens&logoColor=white"/>
