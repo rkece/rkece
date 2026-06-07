@@ -34,7 +34,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <h2><b>🧑‍💻 About Me</b></h2>
+  <h2><b>🎯 About Me</b></h2>
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -83,31 +83,31 @@
 
 <div align="center">
 
-**〔 Languages 〕**
+**〔 Programming 〕**
 
 <img src="https://skillicons.dev/icons?i=js,java,cpp,python,c&theme=dark&perline=10" alt="Languages"/>
 
 <br/><br/>
 
-**〔 Frontend & Frameworks 〕**
+**〔 Web Development 〕**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=Vanilla.js,react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" alt="Frameworks"/>
 
 <br/><br/>
 
-**〔 Databases & Cloud 〕**
+**〔 Cloud 〕**
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,docker,vercel&theme=dark&perline=10" alt="Cloud"/>
 
 <br/><br/>
 
-**〔 Tools & DevOps 〕**
+**〔 AI Tools 〕**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,npm,bash&theme=dark&perline=10" alt="Tools"/>
 
 <br/><br/>
 
-**〔 Hardware & Embedded 〕**
+**〔 Embedded-IOT 〕**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cisco&theme=dark&perline=10" alt="Hardware"/>
 
@@ -129,7 +129,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Application%20Security-BF91F3?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Vanilla%20JS%20Dev-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
